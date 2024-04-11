@@ -4,7 +4,7 @@
 ### <div align="center">HI👋  I'm Ibrahima Tely Barry, a computer science student</div>  
   
 
-- 🤙 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🤙 I’m currently working on [Serie A clone ](https://github.com/ibrabarry23/serieA_clone.git)  
   
 
 - 🌱 I’m currently learning  c++  
