@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1PECiwGbCDqWCf22CuqGmssoRIX-K-dVO/view?usp=sharing" align="left" style="width: 100%" />  
+<img src="afoto.jpg" align="left" style="width: 100%" />  
   
 
 ### <div align="center">HI👋  I'm Ibrahima Tely Barry, a computer science student</div>  
