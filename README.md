@@ -1,7 +1,4 @@
-<div align="center" radius ="10%">
-<img src="afoto.jpeg" align="center" style="width: 10%" />
-</div>  
-  
+
 
 ### <div align="center">HI👋  I'm Ibrahima Tely Barry, a computer science student</div>  
   
