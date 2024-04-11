@@ -1,5 +1,7 @@
+<div align="center">
 <img src="afoto.jpeg" align="left" style="width: 10%" />  
-  
+  </div>  
+
 
 ### <div align="center">HI👋  I'm Ibrahima Tely Barry, a computer science student</div>  
   
