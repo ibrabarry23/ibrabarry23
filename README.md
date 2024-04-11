@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" radius ="10%">
 <img src="afoto.jpeg" align="center" style="width: 10%" />
 </div>  
   
