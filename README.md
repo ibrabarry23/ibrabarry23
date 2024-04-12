@@ -3,7 +3,7 @@
 ### <div align="center">HI👋  I'm Ibrahima Tely Barry, a computer science student</div>  
   
 
-- 🤙 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🤙 I’m currently working on [Container list](https://github.com/ibrabarry23/containerlist.git)  
   
 
 - 🌱 I’m currently learning  c++  
