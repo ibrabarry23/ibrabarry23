@@ -6,7 +6,7 @@
 - 🤙 I’m currently working on [Container list](https://github.com/ibrabarry23/containerlist.git)  
   
 
-- 🌱 I’m currently learning <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+- 🌱 I’m currently learning c++
  and java
   
 
