@@ -6,7 +6,7 @@
 - 🤙 I’m currently working on [Container list](https://github.com/ibrabarry23/containerlist.git)  
   
 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning manim
  and java
   
 
