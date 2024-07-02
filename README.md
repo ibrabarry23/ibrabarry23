@@ -3,7 +3,7 @@
 ### <div align="center">HI👋  I'm Ibrahima Tely Barry, a computer science student</div>  
   
 
-- 🤙 I’m currently working on [LearnMANIM]([https://github.com/ibrabarry23/containerlist.git](https://github.com/ibrabarry23/LearnMANIM))  
+- 🤙 I’m currently working on [LearnMANIM](https://github.com/ibrabarry23/containerlist.git](https://github.com/ibrabarry23/LearnMANIM))  
   
 
 - 🌱 I’m currently learning manim
